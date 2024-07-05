@@ -1,0 +1,1 @@
+<img src="robot01.png" alt="Portrait de l'utilisatrice"/>
